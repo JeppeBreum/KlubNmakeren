@@ -3,6 +3,7 @@ Tak for at downloade KlubNmakeren^TM.
 Makeren skal bruge et link til en (offentlig) soundcloud playliste.
 Playlisten må indeholde fra 0 til 9999 sange. 
 
+Lav en ny mappe i samme mappe som de øvrige filer, og kald denne 'shoutouts'. 
 Læg dine shoutouts i mappen 'shoutouts' med navne på formen 'shoutout0001.mp3'.
 shoutout000x kommer FØR sang nr. x, og der nul-indekseres (Så hvis man vil have et shoutout inden
 første sang, skal det hede shoutout0000.mp3).
